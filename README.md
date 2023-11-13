@@ -1,7 +1,7 @@
 My name is Vincenzo Milano and I love to learn new things and expand on what I currently know. I love computer hardware and have also been building computers since I was 14 years old. If you would like to reach out to work on a project or to chat message me on LinkedIn!
 
 - 🔭 I’m currently working on: Ray Tracing Project and Personal website
-- 🌱 I’m currently learning: Web Development as well as OpenGL
+- 🌱 I’m currently learning: Web Development as well as C++ with OpenGL
 - ⚡ Fun fact: I speedrun Video Games!
   
 <p align="center">
